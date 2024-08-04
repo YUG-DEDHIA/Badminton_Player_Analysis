@@ -1,6 +1,4 @@
-Certainly! Here's a `README.md` template based on the contents of the notebook:
 
----
 
 # Badminton Player Detection and Comparison
 
@@ -17,7 +15,7 @@ The main steps of the project include:
    - The YOLOv8 model is loaded for detecting players in the images.
    - The input image is split into bottom and top halves for separate analysis.
 
-3. **Object Detection and Annotation**:
+3. **Object Detection and Annotation by YOLO**:
    - Detection is performed, and the detected players are annotated.
    - The number of detected players is counted and displayed.
 
